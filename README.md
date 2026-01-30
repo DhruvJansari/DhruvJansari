@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me — Dhruv Jansari<br><br>
+
 Hi, I’m Dhruv Jansari — a full-stack MERN developer focused on building fast, scalable, and real-time web applications.<br>
 I work with MongoDB, Express.js, React.js, Next.js, and Node.js to create modern user experiences backed by powerful APIs.<br><br>
 
